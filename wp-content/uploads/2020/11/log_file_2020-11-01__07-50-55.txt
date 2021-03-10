@@ -1,0 +1,147 @@
+
+---Downloaded files---
+The import files for: Appilo Main were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://themexriver.com/appilo-theme/main
+Data file = /home/customer/www/themexriver.com/public_html/appilo-theme/wp-content/uploads/sites/2/2020/11/demo-content-import-file_2020-11-01__07-50-55.xml
+Widget file = /home/customer/www/themexriver.com/public_html/appilo-theme/wp-content/uploads/sites/2/2020/11/demo-widgets-import-file_2020-11-01__07-50-55.json
+Customizer file = /home/customer/www/themexriver.com/public_html/appilo-theme/wp-content/uploads/sites/2/2020/11/demo-customizer-import-file_2020-11-01__07-50-55.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-19__13-37-42" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-18__13-17-57" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-19__13-37-42" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-18__13-17-57" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-20__12-28-33" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-20__11-57-06" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-19__13-37-42" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-18__13-17-57" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-20__12-28-33" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-20__11-57-06" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-30__12-38-45" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-29__14-31-45" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-29__13-21-10" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-19__13-37-42" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-18__13-17-57" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-20__12-28-33" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-20__11-57-06" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-30__12-38-45" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-29__14-31-45" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-01-29__13-21-10" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-03-08__12-59-38" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2020-03-08__12-09-35" (Media)
+
+
+---Importing widgets---
+Appilo Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - Category - Imported
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+Archives - Archive - Imported
+
+Appilo Footer Widget : 
+
+Appilo About widget - No Title - Imported
+Appilo Address widget - Address - Imported
+Navigation Menu - Quick Links - Imported
+Appilo Twitter widget - Twitter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

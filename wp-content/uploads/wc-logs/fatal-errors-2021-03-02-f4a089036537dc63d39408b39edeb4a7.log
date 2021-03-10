@@ -1,0 +1,6 @@
+2021-03-02T12:45:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 26093992 bytes) in /Users/Moulid/Downloads/merchandizer/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-03-02T12:48:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24645632 bytes) in /Users/Moulid/Downloads/merchandizer/wp-includes/functions.php on line 3953
+
+2021-03-02T13:01:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 26093992 bytes) in /Users/Moulid/Downloads/merchandizer/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+

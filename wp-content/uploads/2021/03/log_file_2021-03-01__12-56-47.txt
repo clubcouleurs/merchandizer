@@ -1,0 +1,70 @@
+
+---Downloaded files---
+The import files for: Appilo Main were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888
+Data file = /Users/Moulid/Downloads/merchandizer/wp-content/uploads/2021/03/demo-content-import-file_2021-03-01__12-56-47.xml
+Widget file = /Users/Moulid/Downloads/merchandizer/wp-content/uploads/2021/03/demo-widgets-import-file_2021-03-01__12-56-47.json
+Customizer file = /Users/Moulid/Downloads/merchandizer/wp-content/uploads/2021/03/demo-customizer-import-file_2021-03-01__12-56-47.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Appilo Blog Sidebar : 
+
+Rechercher - No Title - Imported
+Catégories - Category - Imported
+Articles récents - Recent Post - Imported
+Nuage d’étiquettes - Tags - Imported
+Archives - Archive - Imported
+
+Appilo Footer Widget : 
+
+Appilo About widget - No Title - Imported
+Appilo Address widget - Address - Imported
+Menu de navigation - Quick Links - Imported
+Appilo Twitter widget - Twitter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,169 @@
+a{
+    text-decoration: none;
+}
+.appilo-wrap label {
+    font-size: 16px;
+    margin: 15px 0px;
+    display: block;
+    font-weight: 600;
+}
+.appilo-wrap input {
+    width: 100%;
+    border: none;
+    height: 45px;
+    padding: 0px 30px;
+    background-color: #eeeeee;
+}
+.about-wrap.appilo-wrap .nav-tab.nav-tab-active {
+    margin-bottom: -2px;
+    background: 0 0;
+    outline: 0;
+    border: none;
+    border-bottom: 2px solid #6541c1 ;
+    color: #6541c1 ;
+}
+.about-wrap.appilo-wrap .nav-tab {
+    float: left;
+    border: none;
+    outline: 0;
+    border-bottom: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    background: 0 0;
+    margin-left: 0;
+    margin-right: .5em;
+}
+.appilo-system-stats {
+    background: #fff;
+    padding: 10px 30px 50px;
+    border-radius: 3px;
+    margin-top: 20px;
+    color: #000;
+    webkit-box-shadow: 0 5px 40px 0 rgba(10,10,25,.1);
+    -moz-box-shadow: 0 5px 40px 0 rgba(10,10,25,.1);
+    box-shadow: 0 5px 40px 0 rgba(10,10,25,.1);
+}
+.system-status-table tr td {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+.system-status-table {
+    width: 100%;
+}
+.appilo-inactive, mark.error {
+    background-color: rgba(230,30,31,.1);
+    color: #e61e1f;
+}
+.nav-tab-active, .nav-tab-active:focus, .nav-tab-active:focus:active, .nav-tab-active:hover {
+    border-bottom: 1px solid #f1f1f1;
+    background: #f1f1f1;
+    color: #000;
+}
+.about-wrap .about-description, .about-wrap .about-text {
+    margin-top: 1.4em;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 19px;
+}
+.ocdi__gl-item.js-ocdi-gl-item:before {
+    content: "Updated";
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    background: linear-gradient(140.54deg, #608D00 0%, #D30000 72.37%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: color-dodge, overlay, difference, normal;
+    padding: 5px 30px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 700;
+    right: 0;
+}
+
+.ocdi__gl-item.js-ocdi-gl-item:nth-child(2):before {
+    content: "New";
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    background: linear-gradient(140.54deg, #608D00 0%, #D30000 72.37%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: color-dodge, overlay, difference, normal;
+    padding: 5px 30px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 700;
+    right: 0;
+}
+.ocdi__gl-item.js-ocdi-gl-item:nth-child(3):before {
+    content: "New";
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    background: linear-gradient(140.54deg, #608D00 0%, #D30000 72.37%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: color-dodge, overlay, difference, normal;
+    padding: 5px 30px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 700;
+    right: 0;
+}
+.ocdi__gl-item.js-ocdi-gl-item:nth-child(4):before {
+    content: "New";
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    background: linear-gradient(140.54deg, #608D00 0%, #D30000 72.37%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: color-dodge, overlay, difference, normal;
+    padding: 5px 30px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 700;
+    right: 0;
+}
+.ocdi__gl-item.js-ocdi-gl-item:nth-child(5):before {
+    content: "New";
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    background: linear-gradient(140.54deg, #608D00 0%, #D30000 72.37%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: color-dodge, overlay, difference, normal;
+    padding: 5px 30px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 700;
+    right: 0;
+}
+.ocdi__gl-item.js-ocdi-gl-item:nth-child(6):before {
+    content: "New";
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    background: linear-gradient(140.54deg, #608D00 0%, #D30000 72.37%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: color-dodge, overlay, difference, normal;
+    padding: 5px 30px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 700;
+    right: 0;
+}
+li#toplevel_page_appilo-admin-menu .menu-top-first {
+    background: -webkit-gradient(left top,right top,color-stop(0,#6541c1),color-stop(98%,#d43396),color-stop(100%,#d43396));
+    background: -webkit-gradient(linear,left top,right top,from(#6541c1),color-stop(98%,#d43396),to(#d43396));
+    background: linear-gradient(to right,#6541c1 0,#d43396 98%,#d43396 100%) !important;
+}
+li#toplevel_page_appilo-admin-menu .menu-top-first:hover {
+    color: #fff !important;
+}
+li#toplevel_page_appilo-admin-menu ul li:hover a {
+    background: -webkit-gradient(left top,right top,color-stop(0,#6541c1),color-stop(98%,#d43396),color-stop(100%,#d43396));
+    background: -webkit-gradient(linear,left top,right top,from(#6541c1),color-stop(98%,#d43396),to(#d43396));
+    background: linear-gradient(to right,#6541c1 0,#d43396 98%,#d43396 100%) !important;
+    color: #fff !important;
+}
+li#toplevel_page_appilo-admin-menu .wp-submenu.wp-submenu-wrap{
+    background-color: #000000 !important;
+}
+a.active-btn.button-primary {
+    background: red;
+    border: none;
+    display: block;
+    text-align: center;
+    font-size: 26px;
+}
+.text-center{
+    text-align: center !important;
+}
